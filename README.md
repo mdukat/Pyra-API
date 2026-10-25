@@ -20,7 +20,6 @@ Przetłumaczona pasta o wiadomo kim:
 curl --get --data-urlencode text@ojciec.txt http://127.0.0.1:8080/translate | jq -r .translation
 ```
 
-```
 Mój kaker to fanatyk wędkarstwa. Pół pomieszkania zajebane wędkami, najgorzej. Średnio raza wew miesiącu chtoś wdepnie wew leżący na ziemi haczyk czy kotwicę i trzebno wyciągać wew szpitalu, bo mają zadziory na końcu. WEW swoim dwudziestodwuletnim życiu już z 10 razy byłem na przebiernym zabiegu. Tydzień temu poszedłem na jakieś losowe badania, to babsztyk z recepcji jak mnie ino najrzała, to kazała papuća ściągać xD, bo myślała, że znowyk hak wew gierze.
 
 Druga połowa pomieszkania zajebana „Wędkarzem Polskim”, „Światem Wędkarza”, „Super Karpiem” xD dęga. Co tydzień fater robi objazd po wszystkich kioskach wew mieście, żeby skompletować wszystkie wędkarskie tygodniki. Byłem na tyla głupi, że nauczyłem go into internety, bo myślałem, że ździebko dudków uszparamy na tych gazetkach, ady tero nie dosyć, że je kupuje, to jeszczek siedzi na jakichś forach góli wędkarzy i chachuli gównoburze z inakszymi wędkarzami łe najlepsze zanęty dęga. Potrafi drzeć mordę do monitora abo wypierdolić klawiaturę za okno. Raz kiedyś fater mnie wkurwił, to założyłem tamdotąd konto i go trollowałem, pisząc wew jego tematach jakieś losowe raszpele, typu „karasie jedzo guwno”. Macia nie nadążała z gotowaniem bigosu na uspokojenie. Aha, ma już na forum rangę WIELKA MSZA, za najebanie 10 tysięcy postów.
@@ -93,4 +92,3 @@ Marnisz temat założyli jacyś idioci! Wiem użytkownika kaker_anona od dawnoś
 Zaś jeszczek używał tych trollkont do prześladowania niedawnych kolegów od łódki. Jak chtóryś z nich zakładał kawał temat, to fater się tamdotąd wpierdalał na trollkoncie i na przykład pisał, że chujowe chechła łapie i widać, że nie umie łowić xD.
 
 Z tych samych trollkont udzielał się wew swoich tematach i jak na przykład wrzucał zdjęcia złapanych bez siebie śrupy, to sam lajsnąć pisał NOOOO GRATULUJĘ OKAZU! WIDAĆ, ŻE DOŚWIADCZONY ŁOWCA! a zaś się z tego cieszył i kazał obglądać mi i kaker, jak go chwalą na forum.
-```
